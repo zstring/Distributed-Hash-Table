@@ -10,5 +10,5 @@ Three Main Functionalities are implemented
 Used the "SHA­1" hash function to partition the space based on the emulator-ID.
 
 References:
-<a href="http://www.cse.buffalo.edu/~stevko/courses/cse486/spring15/files/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>
+<a href="http://www.cse.buffalo.edu/~stevko/courses/cse486/spring15/files/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a><br/>
 <a href="http://www.cse.buffalo.edu/~stevko/courses/cse486/spring15/lectures/14-dht.pdf">Lecture Notes by Prof Steve Ko</a>
